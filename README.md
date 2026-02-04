@@ -184,13 +184,6 @@
 
 ---
 
-## 📊 Моя статистика
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iShchavelev&show_icons=true&theme=radical&count_private=true&hide=contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iShchavelev&layout=compact&theme=radical"/>
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=iShchavelev&style=flat-square&color=blueviolet"/>
   <br>
