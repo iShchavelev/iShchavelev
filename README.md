@@ -1,8 +1,12 @@
 # 👋 Привет, я Илья Щавелев | QA Engineer 🚀
 
+<div align="center">
+
 [ ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ](https://t.me/shchavelev)
 
 > *"Качество — это не действие, это привычка."*
+
+</div>
 
 ---
 
@@ -176,7 +180,10 @@
 - **Граничные случаи:** Лимиты, несуществующие ID, пустые запросы
 
 ---
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=iShchavelev&style=flat-square&color=blueviolet)   
 
 _Открыт к предложениям и новым знакомствам в мире QA!_
+
+</div>
