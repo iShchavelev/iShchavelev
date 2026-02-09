@@ -4,9 +4,9 @@
 
 [ ![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ](https://t.me/shchavelev)
 
-> *"Качество — это не действие, это привычка."*
-
 </div>
+
+> *"Качество — это не действие, это привычка."*
 
 ---
 
